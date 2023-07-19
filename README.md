@@ -1,6 +1,6 @@
 # todo-api
 
-## LIVE https://todo-api-hs4u.onrender.com/
+## LIVE https://todo-api-hs4u.onrender.com/todo
 
 
 ##### Endpoints GUiDE :
